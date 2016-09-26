@@ -1,0 +1,67 @@
+html{
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	font-size: 14px;
+}
+
+body{
+	line-height: 1;
+	background-color: #ADD8E6;
+}
+
+.personal1{
+	font-size: 20px;
+	font-weight: bolder;
+	text-align: center;
+	width: 100%;
+}
+
+.personal2{
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+}
+
+.header1{
+	font-size: 18px;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+
+.header2{
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 0px;
+}
+
+.specification{
+	font-size: 14px;
+	font-weight: bold;
+	font-style: italic;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.body2{
+	width: 60%;
+}
+
+.body{
+	font-size: 14px;
+}
+
+.special{
+	font-weight: bold;
+}
+
+div+ul{
+	margin-top: 0%;
+}
+
+.dates{
+	text-align: right;
+}
+

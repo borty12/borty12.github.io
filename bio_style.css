@@ -1,0 +1,21 @@
+html{
+	margin-left: 200px;
+	margin-right: 200px;
+	font-size: 14px;
+}
+
+body{
+	background-color: #ADD8E6;
+}
+
+.title1{
+	font-size: 20px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.title2{
+	font-size: 16px;
+	font-weight: bolder;
+	text-align: center;
+}
